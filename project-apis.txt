@@ -1,2 +1,2 @@
 drive.googleapis.com
-cloudstorage.googleapis.com
+storage-api.googleapis.com
